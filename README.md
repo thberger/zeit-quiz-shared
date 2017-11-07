@@ -1,5 +1,5 @@
 # Zeit Quiz Shared
-Solve a ZEIT.de crosswords puzzle online and collaboratively with friends.
+Solve a ZEIT.de crossword puzzle online with your friends.
 
 ## Current state
 
