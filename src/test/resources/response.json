@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "key": "Udeg-2017-11-02",
+    "label": "Um die Ecke gedacht 2405",
+    "date": "2017-11-02"
+  },
+  "questions": [
+    {
+      "key": 1,
+      "position": {
+        "x": 3,
+        "y": 1
+      },
+      "vertical": {
+        "question": "Liegen permanent auf dem Sofa rum, soweit nicht ganztags im Bett ",
+        "answer": "KISSEN"
+      }
+    },
+    {
+      "key": 2,
+      "position": {
+        "x": 6,
+        "y": 1
+      },
+      "vertical": {
+        "question": "An Salz kann man sich nicht sattessen und mit \u2026 sich nicht von seinen Sorgen befreien (russ. Sprichwort)",
+        "answer": "GEDANKEN"
+      }
+    },
+    {
+      "key": 3,
+      "position": {
+        "x": 9,
+        "y": 1
+      },
+      "vertical": {
+        "question": "Bl\u00fcten gibt\u2019s, die bieten nur den \u2026, ein \u2026 zu sein ",
+        "answer": "SCHEIN"
+      }
+    },
+    {
+      "key": 4,
+      "position": {
+        "x": 13,
+        "y": 1
+      },
+      "vertical": {
+        "question": "Beklagt nicht selten aus einem Massenget\u00fcmmel heraus ",
+        "answer": "ENGE"
+      }
+    },
+    {
+      "key": 5,
+      "position": {
+        "x": 15,
+        "y": 1
+      },
+      "vertical": {
+        "question": "M\u00f6gen ins Ethik-Fach fallen, der Mess-Genauigkeit unterliegen oder schlicht Sach-Anlage sein ",
+        "answer": "WERTE"
+      }
+    },
+    {
+      "key": 6,
+      "position": {
+        "x": 2,
+        "y": 2
+      },
+      "horizontal": {
+        "question": "F\u00fcr einen eigenen spricht: entschieden mehr Ungezwungenheit! ",
+        "answer": "WILLEN"
+      },
+      "vertical": {
+        "question": "Wider Gewohnheit, wider \u2026 und wider Gewalt ist b\u00f6s fechten (Sprichwort) ",
+        "answer": "WAHRHEIT"
+      }
+    },
+    {
+      "key": 7,
+      "position": {
+        "x": 5,
+        "y": 2
+      },
+      "vertical": {
+        "question": "Grants Hausbootgenossin, Quinns Blumen-Rose ",
+        "answer": "LOREN"
+      }
+    },
+    {
+      "key": 8,
+      "position": {
+        "x": 7,
+        "y": 2
+      },
+      "vertical": {
+        "question": "Stets dabei, der Knabe, beim 29 waagerecht im Freien ",
+        "answer": "NICK"
+      }
+    },
+    {
+      "key": 9,
+      "position": {
+        "x": 8,
+        "y": 2
+      },
+      "horizontal": {
+        "question": "Ein Arbeitsgang im Perfektionieren des Spiegelbildes ",
+        "answer": "SCHMINKEN"
+      },
+      "vertical": {
+        "question": "Mundwinkellockerungs\u00fcbung ",
+        "answer": "SCHERZEN"
+      }
+    },
+    {
+      "key": 10,
+      "position": {
+        "x": 11,
+        "y": 2
+      },
+      "vertical": {
+        "question": "Es war einmal einer Ber\u00fchrungspunkt mit Weckfunktion f\u00fcr Ultralangschl\u00e4ferin ",
+        "answer": "MUND"
+      }
+    },
+    {
+      "key": 11,
+      "position": {
+        "x": 12,
+        "y": 2
+      },
+      "vertical": {
+        "question": "Vertreter besonders hoch angesiedelter Hochkultur ",
+        "answer": "INKAS"
+      }
+    },
+    {
+      "key": 12,
+      "position": {
+        "x": 16,
+        "y": 2
+      },
+      "vertical": {
+        "question": "Wo die Gier nachmisst: Wann reicht\u2019s? ",
+        "answer": "NIE"
+      }
+    },
+    {
+      "key": 13,
+      "position": {
+        "x": 17,
+        "y": 2
+      },
+      "vertical": {
+        "question": "Auch beim Kartoffelh\u00e4ndler gelistet, die Maid mit Knotenpunkt in der Mitte ",
+        "answer": "ANNABELLE"
+      }
+    },
+    {
+      "key": 14,
+      "position": {
+        "x": 1,
+        "y": 3
+      },
+      "horizontal": {
+        "question": "Erlaubt ist, was gef\u00e4llt, w\u00fcnschte sich der, laut Goethe ",
+        "answer": "TASSO"
+      }
+    },
+    {
+      "key": 15,
+      "position": {
+        "x": 4,
+        "y": 3
+      },
+      "vertical": {
+        "question": "Detekteien-Betriebskapital ",
+        "answer": "SPUERSINN"
+      }
+    },
+    {
+      "key": 16,
+      "position": {
+        "x": 6,
+        "y": 3
+      },
+      "horizontal": {
+        "question": "Zirkel f\u00fcr kunstvolle 19 waagerecht? Nutzwertige Kleinigkeit in der Leitung! ",
+        "answer": "DICHTUNGSRING"
+      }
+    },
+    {
+      "key": 17,
+      "position": {
+        "x": 10,
+        "y": 3
+      },
+      "vertical": {
+        "question": "Man soll arbeiten, man soll sich n\u00fctzlich machen, man ist \u00fcber seine \u2026 Rechenschaft schuldig (D. Diderot)",
+        "answer": "TALENTE"
+      }
+    },
+    {
+      "key": 18,
+      "position": {
+        "x": 14,
+        "y": 3
+      },
+      "vertical": {
+        "question": "Schmale Speise im Maritimkostinteressentenmagen ",
+        "answer": "STINTE"
+      }
+    },
+    {
+      "key": 19,
+      "position": {
+        "x": 3,
+        "y": 4
+      },
+      "horizontal": {
+        "question": "Die \u2026 ist die Form, die Gestalt, das Gewand des Geistes (F. Dostojewski) ",
+        "answer": "SPRACHE"
+      }
+    },
+    {
+      "key": 20,
+      "position": {
+        "x": 10,
+        "y": 4
+      },
+      "horizontal": {
+        "question": "Vorschlag kontra Fahrradklau: Wo sieht man Medaillons des \u00d6fteren? ",
+        "answer": "ANKETTEN"
+      }
+    },
+    {
+      "key": 21,
+      "position": {
+        "x": 2,
+        "y": 5
+      },
+      "horizontal": {
+        "question": "Gewissensfrage: Nichts tun \u2013 aber auch nichts lassen \u2013, um nie etwas zu \u2026 zu haben? ",
+        "answer": "REUEN"
+      }
+    },
+    {
+      "key": 22,
+      "position": {
+        "x": 7,
+        "y": 5
+      },
+      "horizontal": {
+        "question": "Spitzenprodukt klassischer Klemmtechnologie ",
+        "answer": "KEIL"
+      }
+    },
+    {
+      "key": 23,
+      "position": {
+        "x": 11,
+        "y": 5
+      },
+      "horizontal": {
+        "question": "R\u00f6merreichlich am Rande gelegen, jenseits der breiten Donau ",
+        "answer": "DAKIEN"
+      }
+    },
+    {
+      "key": 24,
+      "position": {
+        "x": 13,
+        "y": 5
+      },
+      "vertical": {
+        "question": "\u00c4rger als Abstellraum: Absitzplatz ",
+        "answer": "KERKER"
+      }
+    },
+    {
+      "key": 25,
+      "position": {
+        "x": 16,
+        "y": 5
+      },
+      "vertical": {
+        "question": "Der k\u00fchle Kreisl\u00e4ufer von Bahn acht ",
+        "answer": "NEPTUN"
+      }
+    },
+    {
+      "key": 26,
+      "position": {
+        "x": 1,
+        "y": 6
+      },
+      "horizontal": {
+        "question": "Wir k\u00f6nnen nur mutma\u00dfen: Die waren wohl relativ familiensinnige Menschen ",
+        "answer": "AHNEN"
+      }
+    },
+    {
+      "key": 27,
+      "position": {
+        "x": 6,
+        "y": 6
+      },
+      "horizontal": {
+        "question": "Innerhalbe Sache am Ende vom H\u00fchnergeplauder ",
+        "answer": "KERN"
+      }
+    },
+    {
+      "key": 28,
+      "position": {
+        "x": 7,
+        "y": 6
+      },
+      "vertical": {
+        "question": "Das angebliche Material des giftigen Hutes von der Bergwiese ",
+        "answer": "EISEN"
+      }
+    },
+    {
+      "key": 29,
+      "position": {
+        "x": 10,
+        "y": 6
+      },
+      "horizontal": {
+        "question": "Stadtbekannter Paar-mal-Alltagesordnungspunkt ",
+        "answer": "ESSEN"
+      }
+    },
+    {
+      "key": 30,
+      "position": {
+        "x": 11,
+        "y": 6
+      },
+      "vertical": {
+        "question": "Sind B\u00fcrgers Bewegung gewidmet, beispielsweise, oder auch der Bahnreisenanbahnung ",
+        "answer": "STEIGE"
+      }
+    },
+    {
+      "key": 31,
+      "position": {
+        "x": 15,
+        "y": 6
+      },
+      "horizontal": {
+        "question": "Mag ein Hochgew\u00e4chs sein, wie Fuchs einst s\u00e4uerlich bemerkte ",
+        "answer": "REBE"
+      },
+      "vertical": {
+        "question": "F\u00fcr Feldmaus und Hamster eine offene Grenze ",
+        "answer": "RAIN"
+      }
+    },
+    {
+      "key": 32,
+      "position": {
+        "x": 2,
+        "y": 7
+      },
+      "horizontal": {
+        "question": "Es gibt keinen strengeren Erzieher als den \u2026 Wobei freilich au\u00dfer Betracht bleibt: wozu? (Chr. Morgenstern)",
+        "answer": "EHRGEIZ"
+      }
+    },
+    {
+      "key": 33,
+      "position": {
+        "x": 3,
+        "y": 7
+      },
+      "vertical": {
+        "question": "Mochte sich sehr in die Rachesache vertiefen, aus Ehebrecheraversion insbesondere ",
+        "answer": "HERA"
+      }
+    },
+    {
+      "key": 34,
+      "position": {
+        "x": 5,
+        "y": 7
+      },
+      "vertical": {
+        "question": "Gern bel\u00e4chelt f\u00fcr seinen Eigenoptik-Tick ",
+        "answer": "GECK"
+      }
+    },
+    {
+      "key": 35,
+      "position": {
+        "x": 9,
+        "y": 7
+      },
+      "horizontal": {
+        "question": "Rechtsau\u00dfen im Tastenterritorium ",
+        "answer": "ENTER"
+      },
+      "vertical": {
+        "question": "Dr\u00e4ngt, sich zu regen, die Dinge zu bewegen ",
+        "answer": "EIFER"
+      }
+    },
+    {
+      "key": 36,
+      "position": {
+        "x": 12,
+        "y": 7
+      },
+      "vertical": {
+        "question": "Verl\u00e4ngert ma\u00dfvoll 41 senkrecht ins Musikalische oder Kirchliche ",
+        "answer": "ELLE"
+      }
+    },
+    {
+      "key": 37,
+      "position": {
+        "x": 14,
+        "y": 7
+      },
+      "horizontal": {
+        "question": "L\u00e4ngeres Document von Sounds & Songs ",
+        "answer": "TAPE"
+      }
+    },
+    {
+      "key": 38,
+      "position": {
+        "x": 3,
+        "y": 8
+      },
+      "horizontal": {
+        "question": "Von da nach Norden: nur eine kurze Fahrt nach Westen ",
+        "answer": "ESENS"
+      }
+    },
+    {
+      "key": 39,
+      "position": {
+        "x": 8,
+        "y": 8
+      },
+      "horizontal": {
+        "question": "Die \u2026 ist das Erste, das der Weise ablegt (chines. Sprichwort) ",
+        "answer": "EITELKEIT"
+      }
+    },
+    {
+      "key": 40,
+      "position": {
+        "x": 1,
+        "y": 9
+      },
+      "horizontal": {
+        "question": "Mit entsprechenden Nadeln gelingt das \u2026 \u2013 mit \u2026 l\u00f6st man Bindeaufgaben ",
+        "answer": "STRICKEN"
+      }
+    },
+    {
+      "key": 41,
+      "position": {
+        "x": 6,
+        "y": 9
+      },
+      "vertical": {
+        "question": "Spitzt sich zu, 25 senkrechts Wirken trotzend ",
+        "answer": "KAP"
+      }
+    },
+    {
+      "key": 42,
+      "position": {
+        "x": 9,
+        "y": 9
+      },
+      "horizontal": {
+        "question": "Gerade die f\u00fcr N\u00e4gel liegen nicht bei H\u00e4mmern und Zangen ",
+        "answer": "FEILEN"
+      }
+    },
+    {
+      "key": 43,
+      "position": {
+        "x": 14,
+        "y": 9
+      },
+      "vertical": {
+        "question": "Im Schreinergewerbe: sauberer als Kerbe ",
+        "answer": "NUT"
+      }
+    },
+    {
+      "key": 44,
+      "position": {
+        "x": 15,
+        "y": 9
+      },
+      "horizontal": {
+        "question": "Jubilar schreibt sein Jubeljahr meist nicht ohne ",
+        "answer": "NULL"
+      }
+    },
+    {
+      "key": 45,
+      "position": {
+        "x": 2,
+        "y": 10
+      },
+      "horizontal": {
+        "question": "Sei be\u00e4ugt wegen der Stoppf\u00e4lligkeit, damit\u2019s nicht zu Stillstand kommt ",
+        "answer": "TANKANZEIGE"
+      }
+    },
+    {
+      "key": 46,
+      "position": {
+        "x": 13,
+        "y": 10
+      },
+      "horizontal": {
+        "question": "F\u00fcr die ist eigentlich jeder Tag Verfallsdatum ",
+        "answer": "RUINE"
+      }
+    }
+  ]
+}
