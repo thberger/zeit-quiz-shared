@@ -1,11 +1,9 @@
 package de.thberger.zeitquizshared.ui;
 
-import de.thberger.zeitquizshared.ui.PuzzleData;
 import de.thberger.zeitquizshared.zeitde.Question;
 import de.thberger.zeitquizshared.zeitde.QuizData;
 import de.thberger.zeitquizshared.zeitde.QuizFetcher;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -41,7 +39,7 @@ public class QuizDataController {
 
     private String mapOrientation(Question.Orientation o) {
         switch (o) {
-            case HORIZONTAL: return "accross";
+            case HORIZONTAL: return "across";
             case VERTICAL: return "down";
         }
         throw new IllegalStateException("Missing data");
