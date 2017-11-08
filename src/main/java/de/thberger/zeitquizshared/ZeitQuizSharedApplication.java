@@ -21,15 +21,4 @@ public class ZeitQuizSharedApplication {
 		return builder.build();
 	}
 
-	@Bean
-	public CommandLineRunner run(QuizFetcher quizFetcher) throws Exception {
-		return args -> {
-			QuizData quizData = quizFetcher.fetch();
-			String label = quizData.getMeta().getLabel();
-			String date = quizData.getMeta().getDate();
-			log.info("Fetched '{}' from {} with {} questions", label, date, quizData.getQuestions().size());
-		};
-	}
-
-
 }
