@@ -1,0 +1,8 @@
+---
+applications:
+- name: zeit-quiz
+  memory: 768M
+  instances: 1
+  routes:
+   - route: zeit-quiz.cfapps.io
+  path: target/zeit-quiz-shared-0.0.1-SNAPSHOT.jar
