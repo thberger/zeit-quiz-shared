@@ -27,7 +27,6 @@ public class QuizFetcher {
     private static final String URL = "http://spiele.zeit.de/ecke/ecke_json.php";
     private QuizData quizData;
 
-    @PostConstruct
     public QuizData fetch() {
         log.debug("Fetching quiz from " + URL);
         HttpHeaders headers = createHeaders();
